@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,7 +14,7 @@ namespace UserRegistrationProblem
             string[] emailSamples = {
             "abc.xyz@bl.co.in",
             "john.doe@example.com",
-            "test.email@example.co.uk",
+            "test.email@example.co.uk"
             "jane.doe@example.com",
             "invalid.email",
             "another.invalid.email@"
